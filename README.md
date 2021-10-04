@@ -1,2 +1,8 @@
 # ETRS-Token
-ERC20 token 'ETRS' in Ethereum Testnet 
+ERC20 token 'ETRS' in Ropsten Testnet Network
+
+
+
+Testing ethereum ecosystem.
+
+Create issue with your ERC20 address if you want dumb token. :stuck_out_tongue_winking_eye: 
